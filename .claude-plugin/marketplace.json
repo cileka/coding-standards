@@ -1,0 +1,13 @@
+{
+  "name": "my-standards-marketplace",
+  "owner": {
+    "name": "cileka"
+  },
+  "plugins": [
+    {
+      "name": "my-standards",
+      "source": "./",
+      "description": "My personal coding standards and conventions for writing consistent, readable, and maintainable code."
+    }
+  ]
+}
